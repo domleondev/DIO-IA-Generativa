@@ -1,5 +1,5 @@
 # DIO-IA-Generativa
-Trabalhndo com Copilot e Microsoft Learning
+Trabalhando com Copilot e Microsoft Learning
 
 ![image](https://github.com/user-attachments/assets/dacac677-af94-453e-a69f-a24e0569f5ed)
 
